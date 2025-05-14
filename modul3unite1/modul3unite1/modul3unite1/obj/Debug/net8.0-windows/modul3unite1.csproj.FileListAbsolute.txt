@@ -1,0 +1,16 @@
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.Form1.resources
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.csproj.GenerateResource.cache
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.AssemblyInfoInputs.cache
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.AssemblyInfo.cs
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\bin\Debug\net8.0-windows\modul3unite1.exe
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\bin\Debug\net8.0-windows\modul3unite1.deps.json
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\bin\Debug\net8.0-windows\modul3unite1.runtimeconfig.json
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\bin\Debug\net8.0-windows\modul3unite1.dll
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\bin\Debug\net8.0-windows\modul3unite1.pdb
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.dll
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\refint\modul3unite1.dll
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.pdb
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\modul3unite1.genruntimeconfig.cache
+C:\Users\SONY\source\repos\modul3unite1\modul3unite1\obj\Debug\net8.0-windows\ref\modul3unite1.dll
